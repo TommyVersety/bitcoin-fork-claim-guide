@@ -16,7 +16,7 @@ Use [findmycoins.ninja](http://www.findmycoins.ninja/) to find out if you really
 
 Before you begin the process of claim your airdropped forked coins, make sure you:
 
-- **create a brand new wallet with a fresh set of 12/18/24 word seed (optional but highly recommended)**
+- **create a brand new wallet with a fresh set of 12/18/24 word seed (optional but highly recommended; you will be putting your precious BTC at extreme risk if you skip this step)**
   - **transfer your bitcoins and other coins (LTC, ETH, etc) to this new wallet**
 - have a good grasp of Linux/Unix/MacOS command line
 
@@ -41,7 +41,7 @@ cd bip39
 
 Open the `bip39-standalone.html` file in the `bip39` directory using Google Chrome or Firefox (or any other browser)
 
-Under the **Mnemonic** section of the html page, enter your 12/18/24 word seed in **BIP39 Mnemonic** textbox. If you also use a passphrase, enter the passphrase in **BIP39 Passphrase (optional)**
+Under the **Mnemonic** section of the html page, enter your 12/18/24 word seed of the **old wallet** in **BIP39 Mnemonic** textbox (See First Steps section on the dangers of not transferring your BTC to a new wallet first). If you also use a passphrase, enter the passphrase in **BIP39 Passphrase (optional)**
 
 Under the **Derivation Path** section of the html page, make sure **BIP44** tab is selcted. (Leave the other settings as default unless you have multiple accounts.)
 
@@ -193,7 +193,7 @@ This guide is to be used at your own risk. Do not hold me responsible for any mi
 
 - confusing ticker of one coin with another
 - sending coins to the wrong address
-- having your private keys or 12/18/24 word seeds compromised
+- having your private keys or 12/18/24 word seeds compromised because of not creating a new wallet and not sending your BTC to the new wallet
 - not being able to withdraw funds from exchange due to verification
 
 ## Donations
