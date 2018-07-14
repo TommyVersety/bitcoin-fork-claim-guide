@@ -200,6 +200,7 @@ This guide is to be used at your own risk. Do not hold me responsible for any mi
 
 Really appreciate your donations which can sent to
 
-BTC: 38uvDLV4GzcAB7qMUEM5chqivESqNPWPZW
+Bitcoin (BTC): `38uvDLV4GzcAB7qMUEM5chqivESqNPWPZW`
 
-LTC: MRAwH2WHUprCn5RcpKWKMkfaUJicTpsbWr
+Litecoin (LTC):`MRAwH2WHUprCn5RcpKWKMkfaUJicTpsbWr` or `3Jxny96KXhzmya9iiSWyY7RB9c8AXRGN3n`
+
